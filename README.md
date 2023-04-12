@@ -32,7 +32,7 @@ IMPORTANTE:
 
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
-
+R: https://github.com/Bncardoso/JobRotation/blob/main/Questions/Q-02.c
 
 3) Descubra a lógica e complete o próximo elemento:
 
@@ -76,3 +76,5 @@ IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 
 b) Evite usar funções prontas, como, por exemplo, reverse;
+
+R: https://github.com/Bncardoso/JobRotation/blob/main/Questions/Q-05.c
