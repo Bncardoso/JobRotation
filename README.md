@@ -1,5 +1,5 @@
 # JobRotation
-Este é um repositório para responder as questões de um questionário de teste lógico.
+Este é um repositório para responder as questões de um questionário de teste lógico. [ AS RESPOSTAS JÀ ESTÃO INCLUÍDAS]
 
 
 1) Observe o trecho de código abaixo:
